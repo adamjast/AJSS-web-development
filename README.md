@@ -24,6 +24,14 @@ Install WP SEO plugin (Yoast SEO) | 5 | $7.95
 Install WP contact form (Ninja Forms) | 5 | $7.95
 Create child theme | 10 | $15.90
 
+Service (Wordpress maintenance) | Labor (minutes) | Bill Price 
+------------ | ------------- | --------- 
+A mockup page | UNKNOWN 
+General Consultation | 1 | $1.59
+Run a backup job | 10 | $15.90
+Update Wordpress | 5 | $7.95
+Update a plugin | 1 | $1.59
+
 #### WooCommerce ingredients
 
 Service (WooCommerce) | Labor (minutes) | Bill Price 
