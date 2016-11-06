@@ -6,14 +6,10 @@ A web development firm together with Adam Jast and Shun Shiga.  A group of clien
 - Wordpress development
 - Search engine optimization 
 
-### Web design
-- Prices starting at $899
-
-### Wordpress development
-- Prices starting at $899
-
-### Search engine optimization
-- Prices starting at $350/month
+## Prices
+- **Web design** starting at $899
+- **Wordpress development** starting at $1299
+- **Search engine optimization** starting at $399/month
 
 ## List of clients
 
