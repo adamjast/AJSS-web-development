@@ -10,7 +10,7 @@ A web development firm together with Adam Jast and Shun Shiga.  A group of clien
 Service | Labor (minutes) | Wholesale | Retail
 ------------ | ------------- | ---------- |---------
 A mockup page | UNKNOWN | UNKNOWN | UNKNOWN
-General Consultation | UNKNOWN | UNKNOWN | UNKNOWN
+General Consultation | 1 | $1.33 | $1.59
 
 ## Prices
 - **Web design** starting at $899
