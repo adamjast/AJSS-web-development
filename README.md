@@ -3,25 +3,17 @@ A web development firm together with Adam Jast and Shun Shiga.  A group of clien
 
 ## List of services
 - Web design
-- Wordpress website
-- Search engine optimization 
+- Wordpress development
+- Search engine optimization
 
-### Web design
-- Full homepage mockup (includes desktop and mobile)
-- 2 initial mockups
-
-### Wordpress development
-1. Choose a theme (Divi Themes, X Themes, Genesis Themes)
-2. Install plugins
-- SEO: Yoast SEO
-- Shopping cart: WooCommerce
-- Contact forms: Ninja Forms
-- Security: Wordfence
-- Backups: BackWPup 
-
+### Ingredients
+Service | Labor (minutes) | Wholesale | Retail
+------------ | ------------- | ---------- |---------
+A mockup page | UNKNOWN | UNKNOWN | UNKNOWN
+General Consultation | UNKNOWN | UNKNOWN | UNKNOWN
 
 ## Prices
-- **Web design** starting at $499
+- **Web design** starting at $899
 - **Wordpress development** starting at $1299
 - **Search engine optimization** starting at $399/month
 
