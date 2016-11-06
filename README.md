@@ -7,10 +7,12 @@ A web development firm together with Adam Jast and Shun Shiga.  A group of clien
 - Search engine optimization
 
 ### Ingredients
-Service | Labor (minutes) | Price
------------- | -------------
-A mockup page | UNKNOWN
+Service | Labor (minutes) | Bill Price 
+------------ | ------------- | --------- 
+A mockup page | UNKNOWN 
 General Consultation | 1 | $1.59
+
+
 
 ## Prices
 - **Web design** starting at $899
